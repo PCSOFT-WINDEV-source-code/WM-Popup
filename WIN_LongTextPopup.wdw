@@ -1,0 +1,110 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_LongTextPopup
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_LongTextPopup
+ identifier : 0x21e054ed177a8952
+ internal_properties : CAAAAAgAAADubkPdeXiFNzDzyDEOJp3bbuZFfwCZUpFMAzTaZooHmO5udfDGVEoiZtlhfx7t0hdvp4NwSKwh6HkF3c08m15u5R2sQ12v/a1v05dz4yacad91cIIlJcpLL/xo/7rguPmgNqj0/XQrdTarGIkHxakP4lRVlSKzavlX5Aq+dZWVgEtuDE5QzEE3s89rnKTWMuwwVYrSmLjrwV4q+eeL61KzFvJuoe/VvB3yNT0B4z0rr4w7T/4FkHiH2orWeYRpDa9R0Ma/NUUUDCh0pimFTf8VsWGy7J+Kc9mtXbuyzaSi5FTrzNTKeCNVvhJ5vjUegcfJ4QuIDhXO7sMqqBU0/tNuPmYDZEh99fsKE06uI9jWHEy7ofl2zd/kpT2NO1k4KMdG8todcNzva+7s0mRTY/n8a0CqpX3WhhPgUicVpWwouIVNgt/fjMS34tL0ND0zNLT9L5hitjJnNiAAJJOH7xIDg2urjPtbjs2HCnjrsXeag6ZV2Y8K0A2KNyL6k595xKReWRvvqc35fDucj1AyOphus50A0ek/WFRAjgCCdGyQcE5DlC/YnNYV7+ClTHZePtq3lP04XoAlzQRu1OOVO2p4DcvLDGK2tcWUIzbdo66Uwgjx/7iehP5DYw3S4yCuPCiCk4EcP1bX1837bBVNWSdtPc/0XmYnK4uwmTnXROZMHFZh8yex95zLx0PAHZNCHm3FRtCLt+R0Z3dkyxq/J2W3mGjd6HQK6JaS9Xc+yobcnFq8FMXVs2iTB6Z3URFZ6GNUiS/xuzV5NlyKcGHMLHrDaSIYYB00C+VRc2xwLMQwgTCByfZPHTU+d1gMaFj5zjT6F/kF4fnAEUY7vStnbLQk7m4vugYNNIrURouFlUs9W/5U6rxZpqUK02nSiQ==
+ properties :
+  width : 327
+  height : 236
+ controls :
+  -
+    name : EDT_Content
+    identifier : 0x21e054ed177b8952
+    internal_properties : CAAAAAgAAACvq6abcae99dg2ZQTqu/4jLVGLe7Ef4sA/zRm9ct9UFY/ajeRHTK8XvfxC2JgbvHHt0TyR8A/1oUyhRr2YSrSdzsBaunAv7cmoviZ40BO3IcmEQ6O0L17PvY7tXoEPF3klebnD2g+zBnqr9a7Qs812vDahu5zXYzvR9FJzHVAZesrODEOuB25Pzx5yYIt4DrZzifDo9OiiAfj6pr3FGsW8b3mFfBewXeq8XKk6OGdgXaO8I6jtX4kL6jmbdzVi8O19sXXNj+233UGFj2lKLKlzX/ogpR61cWNKeiX6y6hr9HQz/tzPC19QbqBmsGC/IVpvYMjt44w1I6WEfjDJDxwUTg1kl5gDR7oZBWTrWejKATwoeyvBizUnVc6C/VMDllwN0LNoPKFYYq7v/CveAH0OYl9tn96vLFZbwM6WdhzJBvLWv/RhS8iHPd+9z5e43MrYO2l0VUUzdRoIXMgJUsaQroSSi9gIrdqdYxTxoF3V5XKTsEJQ+ns03TsRkyEoEdEWerBChaZLX+M5lZ7I3zDo6QbotvfLuDuRaL5IeSe5jkD2hbyVqLtkRFbEWLDqox4hJ7WS+f3eW3TGpNpqYT97wFGWNP5MSl/EU8+vgrGbRfv7t3SGm3bNYE7tTCBHkCSB923kwd2O+P3HxbbMSGFQb76vGDQFiY9N6oxq3O/KUy2OYt39FpWSqUgtjZZ3PdTr5UAVmK4iZYbPNE0oLQEmCFrcsNUaTSxwuQkbxZCBrMoCSnc5ry38HEBXVlcB5YnkpRaDVY8OFiK7Zi3emtpFzed3IDhoS6SEbEhHZpbgym4S6jK20KbS0i4BKgLJrcrGvqLgNO9MB0lWWl1JSA2cigkhncPDI7QyszjmSPJwEGNW1Y90AiYPIXAENB5RxLW8pKTFZFBn/SayekfR0EGaR03n4/dsED4gsp1qRGk5T/aZjYfRbbOyzxOn1GYHnQp5E0XiVsM9wKGTvQ4P9MHevugBiVPuMDUwpmKhaXMSeNEz6q+MuP59VyJhwqMvigxJiVKbxKa3hoBLbp1S3NCZd2c4Xaty9kUpQeX391xAN7kSzVPRALl09vfcUQB2oDryKzRDHPJQ2BE/OdRI7T0KTkZemTiPD+yZbdRpRIlTyahz2TB/n894nJh/3AZXOK1f/MU2Fjd/br0JO/LdKAM4I71+UPrfq8AlQz//ewRqJw/GkvLJ0TyXRQ33dpQkmEfD0ahXPsmal7ptrYQVT70VklowNQ8y53ol3ktZteJUJcJWhDEgRYYvOLfHdnk6lyfIUw60jaKR3n7TfALsOSv0JfNJCIOqHYIgpQIkfVjraps=
+    properties :
+     width : 327
+     height : 236
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABDNRqB7cu3hk8cDwpkr0DJI738DIjN03sf0vOAWIWv/wFsLtjD4NF9OHPzxMhmLT732mog4LQqzFa14NXoaBZs5Rms0+3EwKC8ppq0nmpQosPxsIsiA05PmMDFnJ95z3xNHZ9pChzGKiyOv+Q=
+        code : |1+
+         // Version 1
+         // Description 
+         // Multiline text input
+         
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADRJgY/sEv/r2GJ3WZAtCjCZsdeZnEaXTyAp3q4cTU0z70T/hpJlLW7Ou1736PLJSleqJ87CiEX3jMvK2YScQXQBmSoTuo=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      procedure MyWindow()
+      
+      local
+      	
+      // You can handle the control associated with the popup using MyPopupControl
+      SetFocus(MyPopupControl) 
+      
+      // Retrieving content
+      EDT_Content = MyPopupControl..Value
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+  orphans :
+   -
+     name : ACTB_ActionBar
+     identifier : 0x215c4d0416f817b6
+     code_elements :
+      type_code : 125
+      p_codes :
+       -
+         type : 18
+         enabled : false
+       -
+         type : 229
+         enabled : false
+       -
+         type : 239
+         enabled : false
+       -
+         type : 240
+         enabled : false
+       -
+         type : 17
+         enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x115c4cfc00edfa3b
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
